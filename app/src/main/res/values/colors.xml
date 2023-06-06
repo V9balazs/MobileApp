@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_night">#FF0E0E0E</color>
+    <color name="white_smoke">#FFF5F5F5</color>
+    <color name="blue_azure">#FF107BE6</color>
+    <color name="blue_polynesian">#FF0A5096</color>
+    <color name="orange_tangerine">#FFE57A10</color>
+    <color name="orange_chocolate">#FF844609</color>
+</resources>

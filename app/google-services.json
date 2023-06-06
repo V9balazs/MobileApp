@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "516012858845",
+    "firebase_url": "https://water-consumption-32d1d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "water-consumption-32d1d",
+    "storage_bucket": "water-consumption-32d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516012858845:android:cc01ab4b4c42b1c6656a34",
+        "android_client_info": {
+          "package_name": "com.example.waterconsumption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516012858845-7lbrr03bd8538b2037l0drie9aud4rc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxCwaZTBLtQKTnXxUkQb5Cl9VQVO8wVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516012858845-7lbrr03bd8538b2037l0drie9aud4rc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516012858845:android:000b50ec33823a38656a34",
+        "android_client_info": {
+          "package_name": "com.example.waterconsuption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516012858845-7lbrr03bd8538b2037l0drie9aud4rc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxCwaZTBLtQKTnXxUkQb5Cl9VQVO8wVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516012858845-7lbrr03bd8538b2037l0drie9aud4rc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
